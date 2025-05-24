@@ -1,0 +1,4 @@
+Hypothèse,Critère de validation,Résultat empirique,Verdict
+H1 – BTC/ETH,Corrélation < 0.30 et Sharpe T2 > Ref,Corrélation = 0.45; Sharpe BTC = 1.46 > Ref = 0.40,Partiellement validée
+H2 – USDT,"CVaR(USDT_10) < Ref sur T1, T2, T3","CVaR(USDT_10) < Ref : [False, False, False]",Non validée
+H3 – UNI/BNB,Sharpe < Ref et CVaR > Ref en T2,"UNI: False, BNB: False",Non validée
